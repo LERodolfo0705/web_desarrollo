@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(170, 255, 187);
+    font-size: 35px;
+    text-align: center;
+    margin-top: 21%;
+    border: solid 3px;
+    border-color: blue;
+    border-radius: 50px;
+    
+}
