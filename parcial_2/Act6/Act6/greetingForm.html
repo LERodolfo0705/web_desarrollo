@@ -1,0 +1,34 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<!--
+    RODOLFO LOREDO ESTRADA 5 PM
+    12/10/22
+-->
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Estilosgreeting.css" type="text/css">
+    <title>Greeting</title>
+</head>
+<body>
+    <h1>Formulario Greeting</h1>
+    <br>
+    <!--
+        Forma que captura nombre con metodo GET
+    -->
+    <form action="greeting.php" method="post">
+        <label for="nombre">Ingresa tu Nombre:</label>
+        <input  type="text" name="nombre" id="nombre">
+        <hr>
+        <label for="edad">Ingresa tu Edad:</label>
+        <input  type="text" name="edad" id="edad">
+        <hr>
+        <label for="telefono">Ingresa tu número de Telefono:</label>
+        <input  type="number" name="telefono" id="telefono">
+        <hr>
+        <input id="btn-saludo" type="submit" value="Saludar">
+    </form>
+</body>
+</html>

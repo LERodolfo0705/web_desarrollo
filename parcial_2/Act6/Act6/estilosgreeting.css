@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(255, 236, 131);
+}
+
+h1 {
+    text-align: center;
+    font-family: Arial;
+    color: rgb(245, 187, 29);
+}
+
+form {
+text-align: center;
+}
+
+form label {
+    color: rgb(231, 44, 44);
+    font-size: 20px;
+    font-family: Arial;
+}
+
+#btn-saludo {
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 230, 149);
+    font-family: Arial;
+    font-size: 20px;
+}
+
