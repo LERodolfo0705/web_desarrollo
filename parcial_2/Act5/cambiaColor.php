@@ -8,7 +8,8 @@
     <title>Actividad 4</title>
 
 </head>
-
+<!--Rodolfo Loredo Estrada 
+          5 PM-->
 <body>
     <h1 id="samu"> Soy una simple página!!!! =( =( =(</h1>
     <button id="btnrojo" style="background-color:red;" onmouseover="rojo()">Red</button>
